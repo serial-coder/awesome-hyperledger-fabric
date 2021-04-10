@@ -9,6 +9,7 @@
 - [Apps](#apps)
 - [Boilerplates](#boilerplates)
 - [Tools](#tools)
+- [Books](#books)
 - [Documentation](#documentation)
 - [Articles](#articles)
 - [Community](#community)
@@ -18,12 +19,12 @@
 
 ### Open source
 
-No open source apps yet [add yours](#contribute)
+[Supply chain](https://github.com/ialberquilla/hlf1.4-supply-chain) - Supply chain PoC App with four organizations exposing a Rest API created in Hyperledger Fabric.
 
 ### Closed
 
-- [Monetago](https://monetago.com) - Reduce instances of fraud around receivables financing
-- [Tellus](https://worldsibu.tech/tellus/) - Smart contracts transaction designer without coding
+- [Monetago](https://monetago.com) - Reduce instances of fraud around receivables financing.
+- [Tellus](https://worldsibu.tech/tellus/) - Smart contracts transaction designer without coding.
 
 ### Samples
 
@@ -51,14 +52,16 @@ No open source apps yet [add yours](#contribute)
 
 - [hyperledger-fabric-client-utils](https://github.com/Kunstmaan/hyperledger-fabric-client-utils) - Set of utility functions which can be used to interact with chaincode.
 - [fabric-node-chaincode-utils](https://github.com/wearetheledger/fabric-node-chaincode-utils) - A Nodejs module that helps you build your Hyperledger Fabric nodejs chaincode faster and easier.
-- [hlf-sdk-go](https://github.com/s7techlab/hlf-sdk-go) - A third-party Golang Hyperledger Fabric SDK
+- [hlf-sdk-go](https://github.com/s7techlab/hlf-sdk-go) - A third-party Golang Hyperledger Fabric SDK.
 
 ### Network
 
 - [hyperledger-fabric-network-setup](https://github.com/Kunstmaan/hyperledger-fabric-network-setup) - Helper functions for generating configurations for more advanced network setup.
+- [Chainstack managed blockchain](https://chainstack.com/) - Deploy a running network in minutes on Google Cloud or Amazon Web Services.
 - [IBM Cloud blockchain platform](https://console.bluemix.net/catalog/services/blockchain) - Managing and hosting a live network on IBM Cloud.
-- [Hurley](https://worldsibu.tech/convector/hurley-development-environment/) - Quickly setup your network development environment
-- [WorldSibu - Forma](https://worldsibu.tech/forma/) - Real Multi-cloud Remote Blockchain Infrastructure Orchestrator
+- [Hurley](https://worldsibu.tech/convector/hurley-development-environment/) - Quickly setup your network development environment.
+- [WorldSibu - Forma](https://worldsibu.tech/forma/) - Real Multi-cloud Remote Blockchain Infrastructure Orchestrator.
+- [Zeeve](https://www.zeeve.io/) - Deploy and Manage Blockchain Network on multiple cloud providers like GCP, AWS, Azure, Digital Ocean or On-premise
 
 ### Chaincode
 
@@ -67,36 +70,48 @@ No open source apps yet [add yours](#contribute)
 - [fabric-shim-types](https://github.com/wearetheledger/fabric-shim-types) - Typescript types for the `fabric-shim` chaincode package.
 - [fabric-mock-stub](https://github.com/wearetheledger/fabric-mock-stub) - Mock implementation of the `fabric-shim` stub for testing Nodejs chaincode.
 - [fabric-shim-crypto-types](https://github.com/wearetheledger/fabric-shim-crypto-types) - Typescript types for the `fabric-shim-crypto` package.
-- [CCKit](https://github.com/s7techlab/cckit) - Library for creating and testing golang chaincode, includes extended Mockstub implementation
+- [CCKit](https://github.com/s7techlab/cckit) - Library for creating and testing golang chaincode, includes extended Mockstub implementation.
 
 ### Other
 
 - [hyperledger composer playground](https://composer-playground.mybluemix.net) - Online playground for developing applications using composer.
 - [tineola](https://github.com/tineola/tineola) - Command line interface and packaged chaincode built for offensive security testing.
 
+## Books
+
+### LeanPub
+
+- [Mastering Hyperledger fabric](https://leanpub.com/masteringhyperledgerfabric) - Master The Art of Hyperledger Fabric using docker-compose, docker swarm and Kubernetes Container Orchestrator
+
+### Amazon
+
+- [Mastering Hyperledger fabric](https://www.amazon.in/dp/B084KZP9M7/ref=as_sl_pc_qf_sp_asin_til?tag=nnrthota-21&linkCode=w00&linkId=5f273a45f1c4c81962e550d92733c45d&creativeASIN=B084KZP9M7) - Master The Art of Hyperledger Fabric using docker-compose, docker swarm and Kubernetes Container Orchestrator
 
 ## Documentation
 
 ### Docs
 
-- [Official docs](http://hyperledger-fabric.readthedocs.io) - Officially maintained docs for the Hyperledger Fabric project
-- [Official CA docs](http://hyperledger-fabric.readthedocs.io) - Officially maintained docs for the Hyperledger Fabric project CA client and server
-- [Couchdb query docs](docs.couchdb.org/en/2.1.0/api/database/find.html?highlight=find#post--db-_find) - Official CouchDB documentation required for writing rich queries
+- [Official docs](http://hyperledger-fabric.readthedocs.io) - Officially maintained docs for the Hyperledger Fabric project.
+- [Official CA docs](http://hyperledger-fabric.readthedocs.io) - Officially maintained docs for the Hyperledger Fabric project CA client and server.
+- [Couchdb query docs](docs.couchdb.org/en/2.1.0/api/database/find.html?highlight=find#post--db-_find) - Official CouchDB documentation required for writing rich queries.
 - [Node SDK docs](https://fabric-sdk-node.github.io)
 
 ### Courses
 
-- [Blockchain for Business - An Introduction to Hyperledger Technologies](https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x) - FREE
-- [Hyperledger - Blockchain Technologies for Business by Иван Ванков](https://www.youtube.com/watch?v=7EpPrSJtqZU&list=PLjsqymUqgpSRXC9ywNIVUUoGXelQa4olO) - Youtube series explaining Hyperledger Fabric
-- [Hyperledger Fabric - build first network by Иван Ванков](https://www.youtube.com/watch?v=MPNkUqOKhVE&list=PLjsqymUqgpSTGC4L6ULHCB_Mqmy43OcIh) - Technical youtube series Hyperledger Fabric
+- [Blockchain for Business - An Introduction to Hyperledger Technologies](https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x) - FREE.
+- [Hyperledger - Blockchain Technologies for Business by Иван Ванков](https://www.youtube.com/watch?v=7EpPrSJtqZU&list=PLjsqymUqgpSRXC9ywNIVUUoGXelQa4olO) - Youtube series explaining Hyperledger Fabric.
+- [Hyperledger Fabric - build first network by Иван Ванков](https://www.youtube.com/watch?v=MPNkUqOKhVE&list=PLjsqymUqgpSTGC4L6ULHCB_Mqmy43OcIh) - Technical youtube series Hyperledger Fabric.
 
 ### Tutorials
 
-- [Hyperledger Fabric SDK Go: How to build your first app?](https://github.com/chainHero/heroes-service) - Chainhero tutorial on how to build applications on Hyperledger Fabric v1.0.5
+- [Hyperledger Fabric SDK Go: How to build your first app?](https://github.com/chainHero/heroes-service) - Chainhero tutorial on how to build applications on Hyperledger Fabric v1.0.5.
 - [Hyperledger Development within 21 days](https://medium.com/@grsind19/hyperledger-development-with-in-21-days-day-1-ed3c5df88113)
 - [Hyperledger Fabric dev env setup Kubernetes](https://medium.com/kokster/set-up-a-hyperledger-fabric-development-environment-on-kubernetes-6428c63e018b)
 - [Fabric on Google Cloud Platform](https://medium.com/google-cloud/fabric-on-google-cloud-platform-97525323457c)
 - [Write your first Chaincode (v1.4) using Node, Babel, Model/Controller and Test it using Mocha](https://medium.com/@jojoooo/write-your-first-hyperledger-fabric-1-4-chaincode-bab3c484c35a)
+- [Start Developing Hyperledger Fabric Chaincode in Node.js](https://medium.com/coinmonks/start-developing-hyperledger-fabric-chaincode-in-node-js-e63b655d98db)
+- [Walkthrough of Hyperledger Fabric Node SDK and Client Application](https://medium.com/datadriveninvestor/walkthrough-of-hyperledger-fabric-client-application-aae5222bdfd3)
+- [Deploy a Hyperledger Fabric v2 Web App Using the Node.js SDK](https://chainstack.com/deploy-a-hyperledger-fabric-v2-web-app-using-sdk-for-node-js/)
 
 #### Composer
 
@@ -105,6 +120,11 @@ No open source apps yet [add yours](#contribute)
 ### Whitepaper
 - [White paper Hyperledger projects](https://www.hyperledger.org/wp-content/uploads/2018/04/Hyperledger_Arch_WG_Paper_2_SmartContracts.pdf)
 
+### Research Papers
+
+- [Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains](https://arxiv.org/pdf/1801.10228.pdf)
+- [Performance Benchmarking and Optimizing Hyperledger Fabric Blockchain Platform](https://arxiv.org/pdf/1805.11390.pdf)
+- [FastFabric: Scaling Hyperledger Fabric to 20,000 Transactions per Second](https://arxiv.org/pdf/1901.00910.pdf)
 
 ## Articles
 
@@ -148,6 +168,9 @@ No open source apps yet [add yours](#contribute)
 - [On the origins of Hyperledger Fabric](https://www.linkedin.com/pulse/origins-hyperledger-fabric-maciek-jędrzejczyk/)
 - [Hyperledger Fabric smart contract data model: protobuf to chaincode state mapping](https://medium.com/coinmonks/hyperledger-fabric-smart-contract-data-model-protobuf-to-chaincode-state-mapping-191cdcfa0b78)
 - [Hyperledger Fabric chaincode test driven development (TDD) with unit testing](https://medium.com/coinmonks/test-driven-hyperledger-fabric-golang-chaincode-development-dbec4cb78049)
+- [Start Developing Hyperledger Fabric Chaincode in Node.js](https://medium.com/coinmonks/start-developing-hyperledger-fabric-chaincode-in-node-js-e63b655d98db)
+- [Walkthrough of Hyperledger Fabric Node SDK and Client Application](https://medium.com/datadriveninvestor/walkthrough-of-hyperledger-fabric-client-application-aae5222bdfd3)
+- [How to write unit tests for Hyperledger Fabric Go chaincode](https://blogs.sap.com/2019/01/11/how-to-write-unit-tests-for-hyperledger-fabric-go-chaincode/) - Applied for Fabric v1.x
 
 ## Community
 
